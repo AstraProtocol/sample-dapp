@@ -1,0 +1,10 @@
+.lottery-wrapper {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.cl-center {
+  text-align: center;
+}
